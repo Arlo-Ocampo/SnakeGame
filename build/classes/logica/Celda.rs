@@ -1,0 +1,2 @@
+logica.Celda
+logica.TipoCelda
